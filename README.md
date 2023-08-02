@@ -2,7 +2,7 @@
 
 ## Description
 
-Social Network API, a RESTful API built using Node.js, Express.js, and MongoDB. The API allows developers to interact with the backend of a social network application to manage users, posts, comments, and other related functionalities.
+Social Network API, a RESTful API built using Node.js, Express.js, and MongoDB. The API allows developers to interact with the backend of a social network application to manage users, posts, comments, and other related functionalities. Here is a walkthrough video (https://watch.screencastify.com/v/KcP3cQKkC9YeTrGkOeuB)
 
 ## Table of Contents
 Features
@@ -38,7 +38,7 @@ Start the server:
 npm node server
 
 ## Usage
-Once the server is up and running, you can access the API at http://localhost:3000 (or the specified PORT).
+Once the server is up and running, you can access the API at http://localhost:3001 (or the specified PORT).
 
 Make sure to use appropriate API endpoints with the necessary HTTP methods to perform various operations on the social network.
 
